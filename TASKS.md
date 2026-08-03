@@ -2,36 +2,36 @@
 
 ## Foundation
 
-- [ ] Setup Next.js
-- [ ] Setup Tailwind
-- [ ] Setup shadcn/ui
-- [ ] Setup Clerk
-- [ ] Setup Supabase
+- [*] Setup Next.js
+- [*] Setup Tailwind
+- [*] Setup shadcn/ui
+- [*] Setup Clerk
+- [*] Setup Supabase
 
 ## Landing Page
 
-- [ ] Hero
-- [ ] Features
-- [ ] Pricing
-- [ ] FAQ
+- [*] Hero
+- [*] Features
+- [*] Pricing
+- [*] FAQ
 
 ## Wallet
 
-- [ ] Deposit
-- [ ] Withdraw
-- [ ] History
+- [*] Deposit
+- [*] Withdraw
+- [*] History
 
 ## Orders
 
-- [ ] Create
-- [ ] Track
-- [ ] History
+- [*] Create
+- [*] Track
+- [*] History
 
 ## Admin
 
-- [ ] Dashboard
-- [ ] Users
-- [ ] Services
-- [ ] Orders
+- [*] Dashboard
+- [*] Users
+- [*] Services
+- [*] Orders
 
 ...
