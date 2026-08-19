@@ -1,6 +1,6 @@
 # BoostNG
 
-BoostNG is a modern SaaS platform that enables creators, businesses, and marketers to purchase social media growth services through a secure wallet system powered by GoMine.
+BoostNG is a modern SaaS platform that enables creators, businesses, and marketers to purchase social media growth services through a secure wallet system powered by Me.
 
 ## Features
 
@@ -9,7 +9,7 @@ BoostNG is a modern SaaS platform that enables creators, businesses, and markete
 - Wallet System
 - Paystack
 - Flutterwave
-- GoMine API
+- Me API
 - Customer Dashboard
 - Admin Dashboard
 - Referral System
